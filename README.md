@@ -8,7 +8,7 @@
 💡 Skilled in building responsive web apps and analyzing data for insights.  
 🌱 Currently learning advanced JavaScript, React, and Machine Learning.  
 💬 Ask me about **JavaScript, Python, SQL, Power BI, Pandas, or Web Development**.  
-📫 Reach me at **your_email_here@gmail.com**  
+📫 Reach me at **akshayan0608@gmail.com**  
 📄 Check out my portfolio or resume [link_here]
 
 ---
@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `Python` `HTML` `CSS` `SQL`
+ `Python` `HTML` `CSS` `SQL`
 
 **Web Development:**  
 `React` `Node.js` `Express` `Bootstrap`
